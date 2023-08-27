@@ -1,1 +1,0 @@
-# totalitycorp-frontend-challenge
