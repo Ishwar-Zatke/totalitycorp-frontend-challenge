@@ -4,27 +4,11 @@ Richierich's ECommerce Next provides a way to quickly get up and running with a 
 
 Out of the box, the site uses completely static data coming from a provider at `providers/inventoryProvider.js`. You can update this provider to fetch data from any real API by changing the call in the `getInventory` function.
 
-![Home](example-images/1.png)
-
 ### Live preview
 
 Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
 
-<details>
-  <summary>Other Jamstack ECommerce pages</summary>
 
-### Category view
-![Category view](example-images/2.png)
-
-### Item view
-![Item view](example-images/3.png)
-
-### Cart view
-![Cart view](example-images/4.png)
-
-### Admin panel
-![Admin panel](example-images/5.png)
-</details>
 
 ### Getting started
 
@@ -54,13 +38,10 @@ $ npm run dev
 $ npm run build
 ```
 
-## Deploy to Vercel
+## Deploy to Netlify
 
-Use the [Vercel CLI](https://vercel.com/download)
+Use the [Netlify ](https://www.netlify.com/)
 
-```sh
-vercel
-```
 
 ## Deploy to AWS
 
