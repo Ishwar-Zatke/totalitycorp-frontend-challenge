@@ -6,7 +6,7 @@ Out of the box, the site uses completely static data coming from a provider at `
 
 ### Live preview
 
-Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
+Click [here]([https://gleeful-cascaron-241e51.netlify.app/]) to see a live preview.
 
 
 
@@ -40,7 +40,7 @@ $ npm run build
 
 ## Deploy to Netlify
 
-Use the [Netlify ](https://www.netlify.com/)
+Use the [Netlify ]([https://www.netlify.com/])
 
 
 ## Deploy to AWS
